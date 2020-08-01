@@ -1,7 +1,6 @@
 # CLICK
 Click until you can't stop. Click is the next non-stop social gaming app that will have users sweeping the web for the funniest and most lolling gifs that can beat out the competition and soar that click count.
 
-
 ### Click Landing Page
 ![Click Landing Page GIF](Frontend/click/src/Public/Images/ClickLandingPage.gif)
 
@@ -16,3 +15,5 @@ After users create their own Click account and log in, they're launched onto Cli
 
 ## Technical Base
 Click was developed on a PERN Tech Stack - using PostgreSQL, Express, React and NodeJS. Future specifications include Google Firebase for user authentication and either Material UI and/or Styled-Components for UI design and styling. 
+
+Click is a shared group project. I led and coordinated planning, concept and design of the application, implementation of frontend architecture, UI/UX design and supported the implementation and debugging of the backend architecture.
