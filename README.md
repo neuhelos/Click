@@ -1,5 +1,5 @@
 # CLICK
-Click until you can't stop. Click is the next non-stop social gaming app that will have users sweeping the web for the funniest and most lolling gifs that can beat out the competition and soar that click count.
+Click until you can't stop. Click is the next non-stop social gaming app that will have users sweeping the web for the funniest and most lolling gifs aiming to soar their click count while they click away at the competition in rapid-fire biting irreverence. Only the gifs demonstrating the greatest hilarity will seize the comedic pinnacle of click-bait stardom.
 
 ### Click Landing Page
 ![Click Landing Page GIF](Frontend/click/src/Public/Images/ClickLandingPage.gif)
